@@ -36,3 +36,9 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+### Wardrobe database ###
+data/*.db
+data/*.db-journal
+data/*.db-wal
+data/*.db-shm
